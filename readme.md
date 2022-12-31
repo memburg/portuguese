@@ -1,12 +1,17 @@
-# Portuguese
+# As minhas notas de português
 
-These are my Portuguese notes, in this repository I will be adding my thoughts and resources to learn this beautiful language.
+Estas são minhas notas de português, neste repositório estarei adicionando meus pensamentos e recursos para aprender esta bela língua.
 
-## Goals
+## Metas
 
-Here are my goals for 2023:
+Estas são as minhas metas para 2023 (posso adicioná-las, excluí-las ou modificá-las durante o ano):
 
-- Reach a B2 level
-- Read at least three books in Portuguese
+- Alcance um nível B2
+- Ler pelo menos três livros em português
+- Melhorar meu sotaque (europeu)
 
-## Notes
+## Pensamentos
+
+Acredito que para aprender um idioma mais rápido é necessário conhecer o seu próprio idioma, melhor ainda é conhecer outros idiomas, sejam eles aprendidos na escola ou em casa.
+
+Conhecer bem a nossa língua materna ou outras dá-nos a oportunidade de aplicar os conhecimentos destas e aplicá-los e/ou extrapolá-los na língua-alvo.
