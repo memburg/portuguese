@@ -6,7 +6,7 @@ Estas são minhas notas de português, neste repositório estarei adicionando me
 
 Estas são as minhas metas para 2023 (posso adicioná-las, excluí-las ou modificá-las durante o ano):
 
-- Alcance um nível B2
+- Atingir um nível B2
 - Ler pelo menos três livros em português
 - Melhorar meu sotaque (europeu)
 
